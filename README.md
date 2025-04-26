@@ -261,7 +261,8 @@ AndroidManifest.xml:
 ```
 ###  OUTPUT:
 
-![mad workshop jpg1](https://github.com/user-attachments/assets/8830e718-22cc-4f53-844d-bbbf13e701b4)
+![MAD1](https://github.com/user-attachments/assets/c8ffe92a-6d29-4d00-8ee6-0f8c39ffd2b1)
+
 ![mad](https://github.com/user-attachments/assets/fb37dad0-b9e5-4581-8d80-2107a2f5faf7)
 
 
